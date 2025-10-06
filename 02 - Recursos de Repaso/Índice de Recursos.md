@@ -9,8 +9,8 @@ Este es el punto de partida para explorar el conocimiento contenido en este vaul
 Estos son los pilares conceptuales de cada área de estudio. Cada enlace te llevará a una nota principal que se ramifica en conceptos más detallados.
 
 - **[[Diseño de Redes Seguras]]**: Principios y tecnologías para construir redes robustas.
-- **[[CTI (Cyber Threat Intelligence)]]**: El ciclo y los componentes de la inteligencia de amenazas.
-- **[[GRC (Gobierno, Riesgo y Cumplimiento)]]**: Cómo se alinea la seguridad con el negocio.
+- **[[CTI|CTI (Cyber Threat Intelligence)]]**: El ciclo y los componentes de la inteligencia de amenazas.
+- **[[GRC|GRC (Gobierno, Riesgo y Cumplimiento)]]**: Cómo se alinea la seguridad con el negocio.
 - **[[Principios de Programación Segura]]**: Fundamentos para escribir código resistente a ataques.
 - **[[Forense Digital]]**: El proceso de investigación de incidentes en sistemas digitales.
 - **[[Problemas Matemáticos Difíciles en Criptografía]]**: La base teórica de la criptografía moderna.

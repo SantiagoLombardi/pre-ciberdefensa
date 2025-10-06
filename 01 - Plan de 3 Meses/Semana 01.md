@@ -12,19 +12,19 @@ Establecer ambiente de laboratorio, comprender triada CIA, introducir redes bás
 ## Contenido
 
 ### Conceptos a aprender
-- Triada CIA: Confidencialidad, Integridad, Disponibilidad.
+- [[Triada CIA|Triada CIA]]: Confidencialidad, Integridad, Disponibilidad.
 - Modelo OSI y mapeo a protocolos TCP/IP.
 - IPs, subredes básicas, DNS.
-- Comandos básicos: `ip`, `ifconfig`, `netstat`, `ping`, `traceroute`.
+- Comandos básicos: [[comando - ip| ip]], `ifconfig`, `netstat`, `ping`, `traceroute`.
 - Conceptos básicos de OSINT y ética al recolectar información.
 
 ### Actividades Prácticas
-- [ ] Montar VM: Kali + Ubuntu + Windows en VirtualBox/VMWare.
-- [ ] Crear snapshot inicial de cada VM.
-- [ ] Ejecutar `ifconfig`/`ip a` y describir la salida.
-- [ ] Capturar tráfico en la red LAN con [[Wireshark]] (navegar una web y observar DNS/HTTP).
-- [ ] Realizar una búsqueda OSINT básica sobre una entidad ficticia (usar WHOIS, búsquedas avanzadas).
-- [ ] **Opcional (más horas):** Completar TryHackMe *Pre Security*.
+- [x] Montar VM: Kali + Ubuntu + Windows en VirtualBox/VMWare.
+- [x] Crear snapshot inicial de cada VM.
+- [x] Ejecutar `ifconfig`/`ip a` y describir la salida.
+- [x] Capturar tráfico en la red LAN con [[Wireshark]] (navegar una web y observar DNS/HTTP).
+- [x] Realizar una búsqueda OSINT básica sobre una entidad ficticia (usar WHOIS, búsquedas avanzadas).
+- [x] **Opcional (más horas):** Completar TryHackMe *Pre Security*.
 
 ### Contenido Recomendado (solo títulos)
 - OWASP Top 10 (lectura contextural).

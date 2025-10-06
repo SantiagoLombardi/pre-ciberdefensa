@@ -19,5 +19,5 @@ Componentes principales de IPsec:
 
 ## Enlaces
 - [[Cifrado en Tránsito]]
-- [[VPN (Virtual Private Network)]]
+- [[VPN|VPN (Virtual Private Network)]]
 - [[Capa de Red]]

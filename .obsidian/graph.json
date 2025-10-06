@@ -14,9 +14,9 @@
   "lineSizeMultiplier": 0.891145833333333,
   "collapse-forces": false,
   "centerStrength": 1,
-  "repelStrength": 9.47916666666667,
+  "repelStrength": 2.8125,
   "linkStrength": 1,
-  "linkDistance": 201,
+  "linkDistance": 30,
   "scale": 1,
-  "close": true
+  "close": false
 }
